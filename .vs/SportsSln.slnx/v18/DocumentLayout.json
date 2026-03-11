@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Fernando\\Desktop\\college\\FullStack\\fs-lab-assignment-sportstore-202602-master\\fs-lab-assignment-sportstore-202602-master\\11 - SportsStore - 5\\End of Chapter\\SportsSln\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Fernando\\Desktop\\college\\FullStack\\fs-lab-assignment-sportstore-202602-master\\fs-lab-assignment-sportstore-202602-master\\11 - SportsStore - 5\\End of Chapter\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SportsStore.Tests\\SportsStore.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Fernando\\Desktop\\college\\FullStack\\fs-lab-assignment-sportstore-202602-master\\fs-lab-assignment-sportstore-202602-master\\11 - SportsStore - 5\\End of Chapter\\SportsSln\\SportsStore\\SportsStore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SportsStore\\SportsStore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SportsStore.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Desktop\\college\\FullStack\\fs-lab-assignment-sportstore-202602-master\\fs-lab-assignment-sportstore-202602-master\\11 - SportsStore - 5\\End of Chapter\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj",
+              "RelativeDocumentMoniker": "SportsStore.Tests\\SportsStore.Tests.csproj",
+              "ToolTip": "C:\\Users\\Fernando\\Desktop\\college\\FullStack\\fs-lab-assignment-sportstore-202602-master\\fs-lab-assignment-sportstore-202602-master\\11 - SportsStore - 5\\End of Chapter\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj",
+              "RelativeToolTip": "SportsStore.Tests\\SportsStore.Tests.csproj",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwBoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T11:25:05.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SportsStore.csproj",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Desktop\\college\\FullStack\\fs-lab-assignment-sportstore-202602-master\\fs-lab-assignment-sportstore-202602-master\\11 - SportsStore - 5\\End of Chapter\\SportsSln\\SportsStore\\SportsStore.csproj",
+              "RelativeDocumentMoniker": "SportsStore\\SportsStore.csproj",
+              "ToolTip": "C:\\Users\\Fernando\\Desktop\\college\\FullStack\\fs-lab-assignment-sportstore-202602-master\\fs-lab-assignment-sportstore-202602-master\\11 - SportsStore - 5\\End of Chapter\\SportsSln\\SportsStore\\SportsStore.csproj",
+              "RelativeToolTip": "SportsStore\\SportsStore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T11:23:37.734Z",
+              "EditorCaption": ""
             }
           ]
         }
