@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using SportsStore.Models;
 using Microsoft.AspNetCore.Identity;
 using Serilog;
+using SportsStore.Services;
 
 Log.Logger = new LoggerConfiguration()
     .WriteTo.Console()
@@ -40,6 +41,8 @@ try
 
     builder.Services.AddIdentity<IdentityUser, IdentityRole>()
         .AddEntityFrameworkStores<AppIdentityDbContext>();
+
+    builder.Services.AddScoped<IPaymentService, StripePaymentService>();
 
     var app = builder.Build();
 

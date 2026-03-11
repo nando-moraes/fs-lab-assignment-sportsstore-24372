@@ -1,9 +1,11 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 
-namespace SportsStore.Models {
+namespace SportsStore.Models
+{
 
-    public class Order {
+    public class Order
+    {
 
         [BindNever]
         public int OrderID { get; set; }
@@ -33,5 +35,11 @@ namespace SportsStore.Models {
 
         [BindNever]
         public bool Shipped { get; set; }
+
+        [BindNever]
+        public string? PaymentIntentId { get; set; }
+
+        [BindNever]
+        public bool PaymentComplete { get; set; }
     }
 }
